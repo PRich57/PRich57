@@ -21,7 +21,7 @@ class Skills extends SoftwareDeveloper {
 ```
 <!-- - 🔭 I’m currently working on a social media app called 'Blurb' with some of my peers! Keep up to date with our progress by clicking [here](https://github.com/ljkahn/Blurb)! -->
 
-![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=github_dark&show_icons=true)
+![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=midnight-purple&show_icons=true&hide=issues,stars)
 
 📫 
 [Portfolio](https://gilded-capybara-c5a5b7.netlify.app/)
