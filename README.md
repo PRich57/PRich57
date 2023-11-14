@@ -16,17 +16,25 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   this.languages     = ['JavaScript', 'HTML', 'CSS', 'SQL', 'C'];
   this.databases     = ['MongoDB', 'MySQL'];
-  this.technologies  = ['React', 'GraphQL', 'Node.js', 'ExpressJS', 'jQuery', 'Bootstrap', 'Material-UI']
+  this.technologies  = ['React', 'GraphQL', 'Node.js', 'ExpressJS', 'jQuery', 'Bootstrap', 'Material-UI'];
 }
 ```
-<!-- - 🔭 I’m currently working on a social media app called 'Blurb' with some of my peers! Keep up to date with our progress by clicking [here](https://github.com/ljkahn/Blurb)! -->
+<br/>
+<br/>
 
-![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=midnight-purple&show_icons=true&hide=issues,stars)
+🔭 I’m currently working on a social media app called 'Blurb' with some of my friends! Keep up to date with our progress by clicking [here](https://github.com/ljkahn/Blurb)!
 
-📫 
-[Portfolio](https://gilded-capybara-c5a5b7.netlify.app/)
-|
-[LinkedIn](https://www.linkedin.com/in/peterrichards57/)
+<br/>
+<br/>
+
+<img src="https://simpleicons.now.sh/javascript/F7DF1E" alt="JavaScript" width="40" height="40"> <img src="https://simpleicons.now.sh/react/FF4154" alt="React" width="40" height="40"> <img src="https://simpleicons.now.sh/mongodb/47A248" alt="MongoDB" width="40" height="40"> <img src="https://simpleicons.now.sh/bootstrap/7952b3" alt="Bootstrap" width="40" height="40"> <img src="https://simpleicons.now.sh/express/ffffff" alt="express" width="40" height="40"> <img src="https://simpleicons.now.sh/nodedotjs/339933" alt="Node.js" width="40" height="40"> <img src="https://simpleicons.now.sh/graphql/e10098" alt="GraphQL" width="40" height="40"> <img src="https://simpleicons.now.sh/mysql/4479a1" alt="mysql" width="40" height="40"> <img src="https://simpleicons.now.sh/npm/cb3837" alt="npm" width="40" height="40"> <img src="https://simpleicons.now.sh/vite/646cff" alt="vite" width="40" height="40">
+
+![Pete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=midnight-purple&show_icons=true&hide=issues,stars)
+
+![Pete's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRich57&theme=midnight-purple&hide_border=false)<br/>
+
+📫 [![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://gilded-capybara-c5a5b7.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterrichards57/)
 
 
 <!--
