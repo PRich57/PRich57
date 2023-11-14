@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  this.languages     = ['JavaScript', 'HTML', 'CSS', 'C'];
+  this.languages     = ['JavaScript', 'HTML', 'CSS', 'SQL', 'C'];
   this.databases     = ['MongoDB', 'MySQL'];
   this.technologies  = ['React', 'GraphQL', 'Node.js', 'ExpressJS', 'jQuery', 'Bootstrap', 'Material-UI']
 }
