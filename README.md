@@ -32,7 +32,7 @@ class Skills extends SoftwareDeveloper {
 
 
 
-![Pete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=midnight-purple&show_icons=true&hide=issues,stars)
+![Pete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRich57&theme=midnight-purple&show_icons=true&hide=issues)
 
 ![Pete's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRich57&theme=midnight-purple&hide_border=false)<br/>
 
