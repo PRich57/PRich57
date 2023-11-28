@@ -38,7 +38,7 @@ class Skills extends SoftwareDeveloper {
 
 ![Pete's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRich57&theme=midnight-purple&hide_border=false)<br/>
 
-📫 [![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://gilded-capybara-c5a5b7.netlify.app/)
+📫 [![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://pete-richards.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterrichards57/)
 
 
