@@ -38,8 +38,12 @@ class Skills extends SoftwareDeveloper {
 
 ![Pete's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRich57&theme=midnight-purple&hide_border=false)<br/>
 
-📫 [![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://pete-richards.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterrichards57/)
+📫 <!-- [![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://pete-richards.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterrichards57/) -->
+
+<a href="https://pete-richards.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
+<a href="https://www.linkedin.com/in/peterrichards57/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+
 
 
 <!--
