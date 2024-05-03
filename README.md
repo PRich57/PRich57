@@ -17,7 +17,7 @@ class Skills extends SoftwareDeveloper {
   this.languages     = ['Python', 'SQL', 'JavaScript', 'HTML', 'CSS', 'C'];
   this.databases     = ['MySQL', 'PostgreSQL', 'MongoDB'];
   this.technologies  = ['React', 'Node.js', 'ExpressJS', 'Vue.js', 'GraphQL', 'jQuery', 'Bootstrap', 'Material-UI'];
-  this.tools         = ['VSCode', 'Tableau', 'Docker', 'Power BI', 'Compass', 'Atlas', 'Insomnia', 'Git', 'Jest']
+  this.tools         = ['VSCode', 'Tableau', 'Power BI', 'Docker', 'Compass', 'Atlas', 'Insomnia', 'Git', 'Jest']
 }
 ```
 <p align="center">
