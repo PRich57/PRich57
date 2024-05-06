@@ -9,7 +9,7 @@ import SoftwareDeveloper from 'pete-richards';
 
 class Bio extends SoftwareDeveloper {
   this.name       = 'Pete Richards';
-  this.title      = 'Data Analyst';
+  this.title      = 'Full Stack Engineer';
   this.location   = 'Denver, CO';
 }
 
