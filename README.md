@@ -5,7 +5,7 @@
 
 
 ```js
-import SoftwareDeveloper from 'pete-richards'
+import SoftwareDeveloper from 'pete-richards';
 
 class Bio extends SoftwareDeveloper {
   this.name       = 'Pete Richards';
