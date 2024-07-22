@@ -33,7 +33,7 @@ class Skills(SoftwareDeveloper):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,js,nodejs,npm,react,git,githubactions,github,c,ts,vscode,mongodb,bootstrap,express,jquery,postgres,graphql,apollo,mysql,sequelize,redis,redux,raspberrypi,vite,heroku,netlify,materialui,jest,figma,ubuntu&theme=dark&perline=17" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,js,nodejs,npm,react,git,githubactions,github,c,ts,vscode,mongodb,bootstrap,express,jquery,postgres,graphql,apollo,mysql,sequelize,redis,redux,raspberrypi,vite,heroku,netlify,materialui,jest,figma,ubuntu&theme=dark&perline=16" alt="Skill Icons" />
   </a>
 </p>
 
