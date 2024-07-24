@@ -20,16 +20,13 @@ class Skills(SoftwareDeveloper):
             'Python', 'JavaScript', 'SQL', 'TypeScript',
             'HTML', 'CSS', 'C'
         ]
-
         self.databases = [
             'MySQL', 'PostgreSQL', 'MongoDB'
         ]
-
         self.technologies = [
             'Pandas', 'NumPy', 'Node.js', 'React',
             'Express.js', 'GraphQL', 'jQuery', 'Bootstrap', 'Material-UI'
         ]
-
         self.tools = [
             'VSCode', 'Jupyter', 'Tableau', 'Power BI',
             'Docker', 'Compass/Atlas', 'Insomnia', 'Jest'
