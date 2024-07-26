@@ -10,7 +10,7 @@ class SoftwareDeveloper:
 class Bio(SoftwareDeveloper):
     def __init__(self):
         self.name = 'Pete Richards'
-        self.title = 'Full Stack Software Developer'
+        self.title = 'Software Developer'
         self.location = 'Denver, CO'
 
 
