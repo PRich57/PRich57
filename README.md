@@ -24,7 +24,7 @@ class Skills(SoftwareDeveloper):
             'MySQL', 'PostgreSQL', 'MongoDB'
         ]
         self.technologies = [
-            'Pandas', 'NumPy', 'Node.js', 'React',
+            'Pandas', 'NumPy', 'Node.js', 'React', 'Next.js',
             'Express.js', 'GraphQL', 'jQuery', 'Bootstrap', 'Material-UI'
         ]
         self.tools = [
