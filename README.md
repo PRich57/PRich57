@@ -14,7 +14,7 @@ class Bio(SoftwareDeveloper):
         self.location = 'Denver, CO'
 
 
-class Skills(SoftwareDeveloper):
+class Skills(SoftwareDeveloper)
     def __init__(self):
         self.languages = [
             'Python', 'JavaScript', 'SQL', 'TypeScript',
