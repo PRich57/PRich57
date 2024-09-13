@@ -3,7 +3,7 @@
 </p>
 
 ```py
-class SoftwareDeveloper
+class SoftwareDeveloper:
     pass
 
 
