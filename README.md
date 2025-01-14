@@ -7,7 +7,7 @@ class SoftwareDeveloper:
     pass
 
 
-class Bio(SoftwareDeveloper)
+class Bio(SoftwareDeveloper):
     def __init__(self):
         self.name = 'Pete Richards'
         self.title = 'Software Developer'
